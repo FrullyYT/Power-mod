@@ -1,0 +1,42 @@
+{
+  "group": "unlimited_stick_wand",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "unlimited_stick_wand:powercell"
+    },
+    "1": {
+      "item": "unlimited_stick_wand:poweringot"
+    },
+    "2": {
+      "item": "unlimited_stick_wand:powercell"
+    },
+    "3": {
+      "item": "unlimited_stick_wand:poweringot"
+    },
+    "4": {
+      "item": "minecraft:emerald"
+    },
+    "5": {
+      "item": "unlimited_stick_wand:poweringot"
+    },
+    "6": {
+      "item": "unlimited_stick_wand:powercell"
+    },
+    "7": {
+      "item": "unlimited_stick_wand:poweringot"
+    },
+    "8": {
+      "item": "unlimited_stick_wand:powercell"
+    }
+  },
+  "result": {
+    "item": "unlimited_stick_wand:basicpowercore",
+    "count": 1
+  }
+}

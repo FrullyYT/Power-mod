@@ -1,0 +1,12 @@
+{
+  "group": "unlimited_stick_wand",
+  "type": "minecraft:smelting",
+  "experience": 15,
+  "cookingtime": 260,
+  "ingredient": {
+    "item": "unlimited_stick_wand:powerdust"
+  },
+  "result": {
+    "item": "unlimited_stick_wand:poweringot"
+  }
+}

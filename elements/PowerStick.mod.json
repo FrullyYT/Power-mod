@@ -1,0 +1,32 @@
+{
+  "_fv": 13,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "powerstick",
+    "customModelName": "Normal",
+    "name": "Power Stick",
+    "specialInfo": [
+      "better stick"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:Unlimitedstick"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 3,
+    "efficiency": 9.0,
+    "attackSpeed": 4.0,
+    "enchantability": 0,
+    "damageVsEntity": 150.0,
+    "usageCount": 10000,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": [
+      {
+        "value": "CUSTOM:Poweressence"
+      }
+    ],
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

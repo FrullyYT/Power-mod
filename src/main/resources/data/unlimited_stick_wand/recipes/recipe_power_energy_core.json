@@ -1,0 +1,42 @@
+{
+  "group": "unlimited_stick_wand",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "unlimited_stick_wand:poweringot"
+    },
+    "1": {
+      "item": "unlimited_stick_wand:powerccore"
+    },
+    "2": {
+      "item": "unlimited_stick_wand:poweringot"
+    },
+    "3": {
+      "item": "unlimited_stick_wand:powerccore"
+    },
+    "4": {
+      "item": "minecraft:nether_star"
+    },
+    "5": {
+      "item": "unlimited_stick_wand:powerccore"
+    },
+    "6": {
+      "item": "unlimited_stick_wand:poweringot"
+    },
+    "7": {
+      "item": "unlimited_stick_wand:powerccore"
+    },
+    "8": {
+      "item": "unlimited_stick_wand:poweringot"
+    }
+  },
+  "result": {
+    "item": "unlimited_stick_wand:power_energy_core",
+    "count": 1
+  }
+}

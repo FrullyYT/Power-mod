@@ -1,0 +1,265 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "Unlimitedstick",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "unlimitedstick"
+    },
+    {
+      "name": "PowerStick",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "power_stick"
+    },
+    {
+      "name": "Powerstic",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powerstic"
+    },
+    {
+      "name": "Powerore",
+      "type": "block",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powerore"
+    },
+    {
+      "name": "Powerdust",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powerdust"
+    },
+    {
+      "name": "Poweringot",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poweringot"
+    },
+    {
+      "name": "Poweringo",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poweringo"
+    },
+    {
+      "name": "Basicpowercore",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "basicpowercore"
+    },
+    {
+      "name": "Powercore",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powercore"
+    },
+    {
+      "name": "Powerccore",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powerccore"
+    },
+    {
+      "name": "Powerblock",
+      "type": "block",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powerblock"
+    },
+    {
+      "name": "Corepower",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "corepower"
+    },
+    {
+      "name": "Poweressence",
+      "type": "item",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "poweressence"
+    },
+    {
+      "name": "Lootpoweressence",
+      "type": "loottable",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "lootpoweressence"
+    },
+    {
+      "name": "Recipepowerblock",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipepowerblock"
+    },
+    {
+      "name": "Powercell",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powercell"
+    },
+    {
+      "name": "Powercellrecipe",
+      "type": "recipe",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powercellrecipe"
+    },
+    {
+      "name": "Powerarmor",
+      "type": "armor",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "powerarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "PowerEnergyCore",
+      "type": "item",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "power_energy_core"
+    },
+    {
+      "name": "RecipePowerEnergyCore",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_power_energy_core"
+    },
+    {
+      "name": "RecipeArmorElmet",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_armor_elmet"
+    },
+    {
+      "name": "RecipeArmorChestplate",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_armor_chestplate"
+    },
+    {
+      "name": "RecipeArmorLeggins",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_armor_leggins"
+    },
+    {
+      "name": "RecipeArmorBoots",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "recipe_armor_boots"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.unlimited_stick_wand.powerarmor_helmet": "Power Helmet",
+      "block.unlimited_stick_wand.powerblock": "Power block",
+      "item.unlimited_stick_wand.powerccore": "Power Core",
+      "item.unlimited_stick_wand.powerarmor_boots": "Power Boots",
+      "item.unlimited_stick_wand.powercell": "Power Cell",
+      "item.unlimited_stick_wand.basicpowercore": "Basic Power Core",
+      "block.unlimited_stick_wand.powerore": "Power Ore",
+      "item.unlimited_stick_wand.powerarmor_leggings": "Power Leggings",
+      "item.unlimited_stick_wand.power_stick": "Power Stick",
+      "item.unlimited_stick_wand.power_energy_core": "Power Energy Core",
+      "item.unlimited_stick_wand.poweressence": "Power Essence",
+      "itemGroup.tabunlimitedstick": "Power Evolution",
+      "item.unlimited_stick_wand.poweringot": "Power Ingot",
+      "item.unlimited_stick_wand.powerdust": "Power Dust",
+      "item.unlimited_stick_wand.powerarmor_chestplate": "Power Body"
+    }
+  },
+  "workspaceSettings": {
+    "modid": "unlimited_stick_wand",
+    "modName": "unlimited stick wand",
+    "version": "1.0.0",
+    "author": "giuliozangheri, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.15.2",
+    "modElementsPackage": "net.mcreator.unlimitedstickwand",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202000547520
+}

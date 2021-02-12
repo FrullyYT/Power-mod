@@ -1,0 +1,21 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+
+[[mods]]
+modId="unlimited_stick_wand"
+version="1.0.0"
+displayName="unlimited stick wand"
+credits="Created using mod maker MCreator - https://mcreator.net/about"
+displayURL="https://mcreator.net"
+authors="giuliozangheri, MCreator"
+
+[[dependencies.unlimited_stick_wand]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

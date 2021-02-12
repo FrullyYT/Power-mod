@@ -1,0 +1,24 @@
+{
+  "group": "unlimited_stick_wand",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "tag": "forge:stained_glass"
+    },
+    "1": {
+      "item": "unlimited_stick_wand:poweringot"
+    },
+    "2": {
+      "tag": "forge:stained_glass"
+    }
+  },
+  "result": {
+    "item": "unlimited_stick_wand:power_cell",
+    "count": 1
+  }
+}
